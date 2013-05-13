@@ -36,6 +36,8 @@ public class Empreendimento implements EntryPoint {
 	private final GreetingServiceAsync greetingService = GWT
 			.create(GreetingService.class);
 
+	
+	
 	/**
 	 * This is the entry point method.
 	 */
